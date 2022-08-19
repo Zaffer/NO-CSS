@@ -12,13 +12,13 @@ Only perquisite is all styling and CSS files need to removed.
 ## Quick Start
 Here is a minimal example:
 >index.html
-`
+```
 <html>
 <body>
 <p>Hello World!</p>
 </body>
 </html>
-`
+```
 
 Run this in your browser and all styling is taken care of for you automatically! 😮
 
