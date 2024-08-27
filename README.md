@@ -6,13 +6,12 @@ Comes preinstalled on all devices since inception.
 No additional installation required.
 
 ## Setup
-Simply start using NO-CSS with zero setup required 
-Only perquisite is all styling and CSS files need to removed.
+Simply start using NO-CSS with zero setup required. Only perquisite is all styling and CSS files need to removed.
 
 ## Quick Start
 Here is a minimal example:
->index.html
-```
+Create a new file called 'index.html'
+```html
 <html>
 <body>
 <p>Hello World!</p>
